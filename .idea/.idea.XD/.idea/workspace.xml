@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="051acbbc-e181-4d79-afdf-3a40b0beaff9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Driver Assistance Systems/ACC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Stats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Drive.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Look.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Driver Assistance Systems/Radar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Move.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Driver Assistance Systems/FrontAssist.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/YokEdiciler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Stats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Driver Assistance Systems/Front Assist.cs" />
+        <option value="$PROJECT_DIR$/Assets/Driver Assistance Systems/Radar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Driver Assistance Systems/FrontAssist.cs" />
+        <option value="$PROJECT_DIR$/Assets/Drive.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Look.cs" />
+        <option value="$PROJECT_DIR$/Assets/Driver Assistance Systems/ACC.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aozkx0qnWBRoj0XJlgBJ3g9bOu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="051acbbc-e181-4d79-afdf-3a40b0beaff9" name="Default Changelist" comment="" />
+      <created>1587416883073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587416883073</updated>
+      <workItem from="1587416893524" duration="249000" />
+      <workItem from="1589695173251" duration="1010000" />
+      <workItem from="1589789302836" duration="4194000" />
+      <workItem from="1589957822835" duration="2970000" />
+      <workItem from="1590050109899" duration="4436000" />
+      <workItem from="1590073677422" duration="1326000" />
+      <workItem from="1590129146590" duration="2543000" />
+      <workItem from="1590792742901" duration="2066000" />
+      <workItem from="1592320759617" duration="1388000" />
+      <workItem from="1592329678120" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size" timestamp="1592322442313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1592322442313" />
+    <state x="393" y="44" key="RiderGenerateDialog" timestamp="1590051834985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="393" y="44" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1590051834985" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1592329737849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592329737849" />
+  </component>
+</project>
